@@ -10,6 +10,7 @@ There once a man from Nantucket
 
 I hope this works - My fat finger crossed over the lazy dog
 
+<<<<<<< HEAD
 *******
 New Joke from Krystian and Paul:
 
@@ -24,3 +25,8 @@ Why don't scientists trust atoms?
 
 
 *******
+=======
+Why can't you trust an atom?
+
+Because they make up literally everything ;D
+>>>>>>> 3db6c9db3d1a361adcef290dbb96f018b863fd5f
