@@ -10,3 +10,6 @@ There once a man from Nantucket
 
 I hope this works - My fat finger crossed over the lazy dog
 
+Why can't you trust an atom?
+
+Because they make up literally everything ;D
