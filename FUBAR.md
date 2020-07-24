@@ -10,6 +10,23 @@ There once a man from Nantucket
 
 I hope this works - My fat finger crossed over the lazy dog
 
+*******
+New Joke from Krystian and Paul:
+
+Did you hear about the actor who fell through the floorboards?
+
+----------------He was just going through a stage.
+
+AND BONUS JOKE!
+
+Why don't scientists trust atoms?
+----------------   Bc they make up everything.
+
+
+*******
+
 Why can't you trust an atom?
 
 Because they make up literally everything ;D
+
+
